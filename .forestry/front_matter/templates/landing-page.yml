@@ -1,7 +1,6 @@
 ---
 label: landing-page
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -80,4 +79,5 @@ fields:
   hidden: true
   default: home
 pages:
+- index.md
 - index.md
